@@ -1,0 +1,15 @@
+{
+  "name": "hospitalproject",
+  "version": "1.0.0",
+  "description": "hospitl management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hospital",
+    "patients"
+  ],
+  "author": "anveshreddy",
+  "license": "ISC"
+}
